@@ -4,6 +4,9 @@
 
 This project automates the **Short-Term Rental (under 12 months) request and approval process** for Volvo Financial Services. Built on **SharePoint Lists** and **Power Automate Flows**, it eliminates manual email follow-ups, centralizes credit assessments, and enforces a clear voting workflow.
 
+<img width="1358" height="688" alt="Screenshot 2026-04-13 091929" src="https://github.com/user-attachments/assets/3f83a94f-5cd8-491d-b0aa-4073ca643da8" />
+
+
 ## Business Problem
 
 - Renault team submits rental requests via a form  
