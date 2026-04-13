@@ -9,7 +9,10 @@ This project automates the **Short-Term Rental (under 12 months) request and app
 - Renault team submits rental requests via a form  
 - Credit team manually tracked requests, leading to delays and missed emails  
 - No structured voting or approval logging  
-- Frequent back-and-forth for missing information  
+- Frequent back-and-forth for missing information
+
+<img width="603" height="597" alt="image" src="https://github.com/user-attachments/assets/2b179282-6fc3-4f5a-aabd-4996e27e9702" />
+
 
 ## Solution
 
